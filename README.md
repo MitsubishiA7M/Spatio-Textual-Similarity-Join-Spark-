@@ -107,19 +107,3 @@ Small sample input files are provided for:
 - Running the program locally
 
 ---
-
-## Key Features
-
-- Distributed spatio-textual similarity join using Apache Spark
-- Combination of spatial distance filtering and textual similarity computation
-- Efficient candidate pruning for large-scale datasets
-- Clear separation of algorithm logic and input data
-
----
-
-## Notes
-
-This project was originally developed in a university-provided environment with preconfigured Spark settings.  
-The repository restructures the implementation for public use, focusing on **clarity, reproducibility, and clean project organisation**.
-
----
