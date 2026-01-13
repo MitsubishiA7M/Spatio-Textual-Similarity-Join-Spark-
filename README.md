@@ -17,6 +17,7 @@ This project focuses on **distributed join design, candidate filtering, and scal
 
 ## Repository Structure
 
+```bash
 Spatio-Textual-Similarity-Join/
 ├─ src/
 │  └─ spatio_textual_join.py
@@ -25,6 +26,7 @@ Spatio-Textual-Similarity-Join/
 │  └─ sample_B.txt
 ├─ .gitignore
 └─ README.md
+```
 
 ---
 
